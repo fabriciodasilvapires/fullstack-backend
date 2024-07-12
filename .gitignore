@@ -1,0 +1,34 @@
+#ARQUIVOS DO MAC OS
+.DS_Store
+#ARQUIVOS DO ECLIPSE
+.settings/
+build/
+.project
+.classpath
+.apt_generated
+.factorypath
+.springBeans
+.sts4-cache
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+#ARQUIVOS DO IntelliJ
+.idea/modules.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/libraries/
+*.iws
+*.iml
+*.ipr
+#ARQUIVOS DO NETBEANS
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+#ARQUIVOS DO VSCODE#
+.vscode/
